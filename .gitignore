@@ -1,0 +1,16 @@
+# Ignorar las carpetas generadas automáticamente
+build/
+html/
+latex/
+
+# Ignorar archivos compilados de C++
+*.exe
+*.o
+*.out
+
+# Ignorar el nombre de tu ejecutable
+MonitorApp
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
